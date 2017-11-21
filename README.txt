@@ -1,0 +1,1 @@
+My attempts to solve exercises from "An Introduction to Statistical Learning with Applications in R" by G. James, D. Witten, T. Hastie and R. Tibshirani in Python.
