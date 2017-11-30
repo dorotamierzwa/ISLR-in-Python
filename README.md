@@ -1,5 +1,4 @@
-My attempts in Python to solve exercises from ["An Introduction to Statistical Learning with Applications in R"]
-(http://www-bcf.usc.edu/~gareth/ISL/) 
+My attempts in Python to solve exercises from ["An Introduction to Statistical Learning with Applications in R"](http://www-bcf.usc.edu/~gareth/ISL/)
 
 by G. James, D. Witten, T. Hastie and R. Tibshirani.
 
